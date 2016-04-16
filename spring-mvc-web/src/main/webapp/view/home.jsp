@@ -2,6 +2,6 @@
 <head><title>Welcome</title></head>
 
 <body>
-${response.message }
+${msg }
 </body>
 </html>
